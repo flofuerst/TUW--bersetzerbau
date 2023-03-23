@@ -1,0 +1,7 @@
+/**/*.pdf
+/**/*.DS_Store
+/**/*.tgz
+/**/*.o
+/**/*.vscode
+/**/*.dSYM
+/**/*.pages
